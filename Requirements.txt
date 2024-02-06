@@ -1,7 +1,0 @@
-wordcloud
-pandas
-matplotlib
-streamlit
-plotly
-urlextract
-emoji
